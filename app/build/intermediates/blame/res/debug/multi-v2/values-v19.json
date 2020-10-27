@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "from": {
+                        "startLines": "4,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,414",
+                        "endLines": "8,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "384,628"
+                    },
+                    "to": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,339",
+                        "endLines": "6,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "334,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_footer_star_analysis.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\footer_star_analysis.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_guide.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_welcome.jpg.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-xhdpi\\welcome.jpg"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_star.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\fragment_star.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_partner.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\fragment_partner.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_pic_guanggao.jpg.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-xhdpi\\pic_guanggao.jpg"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_rb_parnter.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\drawable\\main_rb_parnter.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_luck_gv.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\item_luck_gv.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_parnter_sp.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\item_parnter_sp.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_loading2.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-xhdpi\\loading2.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_point_focus.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-hdpi\\point_focus.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dock.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\drawable\\dock.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_parnter_woman.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\drawable\\parnter_woman.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ib_me_normal.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-hdpi\\ib_me_normal.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_footer_star_bg.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\drawable\\footer_star_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_luckanalysis_lv.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\item_luckanalysis_lv.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_rb_luck.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\drawable\\main_rb_luck.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ib_me_focus.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-hdpi\\ib_me_focus.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_luck_analysis.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\activity_luck_analysis.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_luck.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\fragment_luck.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_rbtxt.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\drawable\\main_rbtxt.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_icon.jpg.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_icon.jpg"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ib_star_normal.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-hdpi\\ib_star_normal.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_star_analysis.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\item_star_analysis.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_me_dialog.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\me_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_title_layout.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\title_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_parnter_man.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\drawable\\parnter_man.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_loading3.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-xhdpi\\loading3.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ib_partner_focus.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-hdpi\\ib_partner_focus.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_parnter_analysis.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\activity_parnter_analysis.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ib_luck_focus.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-hdpi\\ib_luck_focus.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_pic_star.jpg.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-xhdpi\\pic_star.jpg"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_star_analysis.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\activity_star_analysis.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_rb_me.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\drawable\\main_rb_me.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_point_normal.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-hdpi\\point_normal.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_back.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ib_partner_normal.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-hdpi\\ib_partner_normal.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_loading1.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-xhdpi\\loading1.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ib_star_focus.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-hdpi\\ib_star_focus.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_me.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_rb_star.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\drawable\\main_rb_star.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_star_gv.xml.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\layout\\item_star_gv.xml"
+    },
+    {
+        "merged": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ib_luck_normal.png.flat",
+        "source": "D:\\android\\happyanimee-constellation-master\\constellation\\app\\src\\main\\res\\mipmap-hdpi\\ib_luck_normal.png"
+    }
+]
